@@ -1,7 +1,7 @@
 '''
 Problem Statement#
 Given a string, find the length of the longest substring in it with no more than K distinct characters.
-
+https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/
 Example 1:
 
 Input: String="araaci", K=2
